@@ -6,4 +6,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\lib\template\css\.DS_Store" />
+    <None Include="wwwroot\lib\template\images\.DS_Store" />
+    <None Include="wwwroot\lib\template\js\.DS_Store" />
+    <None Include="wwwroot\lib\template\js\revolution\.DS_Store" />
+    <None Include="wwwroot\lib\template\js\revolution\js\.DS_Store" />
+  </ItemGroup>
+
 </Project>

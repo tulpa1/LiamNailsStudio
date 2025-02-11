@@ -15,6 +15,7 @@ namespace LiamNailsStudio.Controllers
 
         public IActionResult Index()
         {
+            ViewData["titulo_carrusel"] = "Liam Nails Studio";
             return View();
         }
 
